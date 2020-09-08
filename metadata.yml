@@ -1,0 +1,14 @@
+---
+:id: 34062290
+:submitters:
+- :name: Victor Mora
+  :email: victor_mora@brown.edu
+- :name: B01544818
+  :email: rocket_drew@brown.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-09 06:35:24.812479000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-08 23:35:24.812479000 Z
+:status: processed
+:score: 92.0
